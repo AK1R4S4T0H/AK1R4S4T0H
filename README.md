@@ -28,7 +28,7 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 - "GNUs not Unix"
 ___
 ___
-# 里東
+# 佐藤 明
 
 ようこそ、私のGitHubプロフィールへ！私は情熱的なプログラマーであり、コードの領域での優秀さと習熟を求める旅に身を投じています。デジタルの領域で侍の力を解き放つために、この旅に一緒に参加しましょう。
 
