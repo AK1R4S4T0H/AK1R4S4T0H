@@ -20,6 +20,7 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 - Samurai Scripting
 - Sword-fighting Algorithms
 - Zen-like Debugging
+<p align="center">
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="60">
