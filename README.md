@@ -4,7 +4,7 @@ ___
 
 > Way of the Digital Samurai
 
-Welcome to my GitHub profile! I am a passionate programmer on a quest for excellence and mastery in the realm of code.
+Welcome to my GitHub profile! I am a passionate programmer on a quest for Excellence and Mastery in Programming
 ___
   
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
