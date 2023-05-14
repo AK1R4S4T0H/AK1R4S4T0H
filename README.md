@@ -28,8 +28,9 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
 
 <p align="center">
-# 佐藤 明
-
+___
+## 佐藤 明
+___
 ## 私について
 ___
 私は卓越したソリューションの創造に注力する、初心者のプログラマーです。私の専門分野は[専門分野をここに挿入]です。訓練を積み、絶えず学び続けることにより、全土において最も強力なデジタルの炎を創り出すことのできる、グランドマスターデジタル侍になるでしょう。
