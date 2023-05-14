@@ -8,7 +8,7 @@ ___
 
 > Way of the Digital Samurai
 
-Welcome to my GitHub profile! I am a passionate programmer on a quest for excellence and mastery in the realm of code. Join me on this journey as we unleash the power of the samurai in the digital realm.
+Welcome to my GitHub profile! I am a passionate programmer on a quest for excellence and mastery in the realm of code.
 
 ## About Me
 
