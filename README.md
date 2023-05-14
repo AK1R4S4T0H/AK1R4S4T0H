@@ -20,11 +20,11 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 - Samurai Scripting
 - Sword-fighting Algorithms
 - Zen-like Debugging
-- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-- <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-- <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="60">
-- <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
-- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
 ___
 ___
 # 佐藤 明
