@@ -26,27 +26,3 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
-
-<p align="center">
-___
-## 佐藤 明
-___
-## 私について
-___
-私は卓越したソリューションの創造に注力する、初心者のプログラマーです。私の専門分野は[専門分野をここに挿入]です。訓練を積み、絶えず学び続けることにより、全土において最も強力なデジタルの炎を創り出すことのできる、グランドマスターデジタル侍になるでしょう。
-
-## スキル
-
-- 侍スクリプティング
-- 剣戟アルゴリズム
-- 禅のようなデバッギング
-- デジタルの刀
-- 蛇
-- 帽子工場
-- CSSSSS
-- 'bash' 何？
-- "GNUはUNIXではない"
-
-## 私とつながる
-
-このコーディングの冒険に一緒に参加しましょう。以下のリンクから私とつながることができます：
