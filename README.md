@@ -1,8 +1,5 @@
-### AK1R4S4T0H
-___
-# AK1R4S4T0H
 
-<span styles="text-shadow: 2px 2px 1px #440000"> >> Way of the Digital Samurai </span>
+<span styles="text-shadow: 2px 2px 1px #FF0000;"> >> AK1R4S4T0H </span>
 
 Welcome to my GitHub profile! I am a passionate programmer on a quest for Excellence and Mastery in Programming
 ___
