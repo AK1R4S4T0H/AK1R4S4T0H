@@ -26,3 +26,5 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="60"
