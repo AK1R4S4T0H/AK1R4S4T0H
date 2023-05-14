@@ -2,7 +2,7 @@
 ___
 # AK1R4S4T0H
 
-> Way of the Digital Samurai
+<span styles="text-shadow: 2px 2px 1px #440000"> >> Way of the Digital Samurai </span>
 
 Welcome to my GitHub profile! I am a passionate programmer on a quest for Excellence and Mastery in Programming
 ___
