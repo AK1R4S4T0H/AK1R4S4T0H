@@ -14,15 +14,17 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AK1R4S4T0H&layout=compact&theme=merko">
-___
-## Skills
+
+## Skills & Interests
 
 - Samurai Scripting
 - Sword-fighting Algorithms
 - Zen-like Debugging
-- Snake
-- Hutmil
-- Csssss
+- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+- <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+- <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="60">
+- <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
+- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
 ___
 ___
 # 佐藤 明
