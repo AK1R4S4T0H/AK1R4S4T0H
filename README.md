@@ -28,3 +28,7 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" width="60">
 <img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/52a46e5a-5757-494c-9b96-1f7a0dce2cd0.svg" width="60">
+
+  <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AK1R4S4T0H&theme=matrix&no-frame=true&row=1&&margin-w=30&no-bg=true">
