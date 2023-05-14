@@ -26,14 +26,12 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
-___
-___
+
+<p align="center">
 # 佐藤 明
 
-ようこそ、私のGitHubプロフィールへ！私は情熱的なプログラマーであり、コードの領域での優秀さと習熟を求める旅に身を投じています。デジタルの領域で侍の力を解き放つために、この旅に一緒に参加しましょう。
-
 ## 私について
-
+___
 私は卓越したソリューションの創造に注力する、初心者のプログラマーです。私の専門分野は[専門分野をここに挿入]です。訓練を積み、絶えず学び続けることにより、全土において最も強力なデジタルの炎を創り出すことのできる、グランドマスターデジタル侍になるでしょう。
 
 ## スキル
