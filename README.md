@@ -24,7 +24,6 @@ ___
 - Samurai Scripting
 - Sword-fighting Algorithms
 - Zen-like Debugging
-- Digital Katana
 - Snake
 - Hutmil
 - Csssss
