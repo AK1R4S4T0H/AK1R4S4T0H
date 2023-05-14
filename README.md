@@ -1,5 +1,5 @@
 
-<span styles="color: red; fonmt-size: 25px; text-align: center;"> >> AK1R4S4T0H << </span>
+<p styles="color: red; fonmt-size: 25px; text-align: center;"> >> AK1R4S4T0H << </p>
 
 Welcome to my GitHub profile! I am a passionate programmer on a quest for Excellence and Mastery in Programming
 ___
