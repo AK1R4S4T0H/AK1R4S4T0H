@@ -11,14 +11,24 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
   
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AK1R4S4T0H&layout=compact&theme=merko">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AK1R4S4T0H&layout=compact&theme=monokai">
 
   
   <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AK1R4S4T0H&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=AK1R4S4T0H&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AK1R4S4T0H&show_icons=true&theme=monokai">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AK1R4S4T0H&theme=monokai&date_format=M%20j%5B%2C%20Y%5D">
+  
 ## Skills & Interests
+  
+<!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+| Stuff | Stuff |
+|------|------|
+| [![Repo 1](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AK1R4S4T0H&repo=Py_Programs&theme=monokai)](https://github.com/AK1R4S4T0H/Py_Programs) | [![Repo 2](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AK1R4S4T0H&repo=TheNeuralNetwork&theme=outrun)](https://github.com/AK1R4S4T0H/TheNeuralNetwork) |
+| [![Repo 3](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AK1R4S4T0H&repo=MachineLearningScrapyard&theme=outrun)](https://github.com/AK1R4S4T0H/MachineLearningScrapyard) | [![Repo 4](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena-iso&theme=merko)](https://github.com/Athena-OS/athena-iso) |
+
+
+
 
 - Samurai Scripting
 - Sword-fighting Algorithms
@@ -27,6 +37,7 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 | Programming Language | Skill         | Knowledge    | Experience |
 |----------------------|---------------|--------------|------------|
 | Python               | High          | Advanced     | 1 year     |
+| Bash                 | Medium        | Intermediate | 1 year     |
 | HTML                 | High          | Advanced     | 1 year     |
 | CSS                  | Medium        | Advanced     | 1 year     |
 | JavaScript           | Medium        | Intermediate | 6 months   |
