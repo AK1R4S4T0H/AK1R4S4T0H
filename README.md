@@ -22,7 +22,7 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 ## Skills & Interests
   
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-| Stuff | Stuff |
+|  |  |
 |------|------|
 | [![Repo 1](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AK1R4S4T0H&repo=Py_Programs&theme=monokai)](https://github.com/AK1R4S4T0H/Py_Programs) | [![Repo 2](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AK1R4S4T0H&repo=TheNeuralNetwork&theme=outrun)](https://github.com/AK1R4S4T0H/TheNeuralNetwork) |
 | [![Repo 3](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AK1R4S4T0H&repo=MachineLearningScrapyard&theme=outrun)](https://github.com/AK1R4S4T0H/MachineLearningScrapyard) | [![Repo 4](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena-iso&theme=merko)](https://github.com/Athena-OS/athena-iso) |
