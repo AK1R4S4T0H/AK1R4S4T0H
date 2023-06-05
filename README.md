@@ -17,7 +17,9 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
   <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AK1R4S4T0H&show_icons=true&theme=monokai">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AK1R4S4T0H&theme=monokai&date_format=M%20j%5B%2C%20Y%5D">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AK1R4S4T0H&theme=monokai"/></a>
+
+
   
 ## Skills & Interests
   
