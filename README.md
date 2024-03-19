@@ -3,11 +3,7 @@
 
 Welcome to my GitHub profile! I am a passionate programmer on a quest for Excellence and Mastery in Programming
 ___
-  
 
-## About Me
-
-I am but a Novice with a focus on crafting elegant and efficient solutions. My expertise lies in [insert my key areas of expertise here]. Through disciplined practice and continuous learning, I will become a GrandMaster Digital Samurai capable of creating the Mightiest Digital Fire in all the Lands.
   
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
@@ -37,14 +33,14 @@ I am but a Novice with a focus on crafting elegant and efficient solutions. My e
 - Sword-fighting Algorithms
 - Zen-like Debugging
 
-| Programming Language | Skill         | Knowledge    | Experience |
-|----------------------|---------------|--------------|------------|
-| Python               | High          | Advanced     | 1 year     |
-| Bash                 | Medium        | Intermediate | 1 year     |
-| HTML                 | High          | Advanced     | 1 year     |
-| CSS                  | Medium        | Advanced     | 1 year     |
-| JavaScript           | Medium        | Intermediate | 6 months   |
-| C++                  | Low           | Beginner     | 1 month    |
+| Programming Language | Skill         | Knowledge    |
+|----------------------|---------------|--------------|
+| Python               | High          | Advanced     |
+| Bash                 | Medium        | Intermediate | 
+| HTML                 | High          | Advanced     |
+| CSS                  | Medium        | Advanced     | 
+| JavaScript           | Medium        | Intermediate |
+| C++                  | Low           | Beginner     | 
 
 
   
