@@ -1,7 +1,5 @@
 ## >> AK1R4S4T0H <<
 ##     >>明里<<
-
-Welcome to my GitHub profile! I am a passionate programmer on a quest for Excellence and Mastery in Programming
 ___
 
   
@@ -26,12 +24,6 @@ ___
 | [![Repo 1](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AK1R4S4T0H&repo=Py_Programs&theme=monokai)](https://github.com/AK1R4S4T0H/Py_Programs) | [![Repo 2](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AK1R4S4T0H&repo=TheNeuralNetwork&theme=outrun)](https://github.com/AK1R4S4T0H/TheNeuralNetwork) |
 | [![Repo 3](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AK1R4S4T0H&repo=MachineLearningScrapyard&theme=outrun)](https://github.com/AK1R4S4T0H/MachineLearningScrapyard) | [![Repo 4](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena-iso&theme=merko)](https://github.com/Athena-OS/athena-iso) |
 
-
-
-
-- Samurai Scripting
-- Sword-fighting Algorithms
-- Zen-like Debugging
 
 | Programming Language | Skill         | Knowledge    |
 |----------------------|---------------|--------------|
